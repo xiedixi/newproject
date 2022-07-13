@@ -6,5 +6,6 @@ public class test01 {
         System.out.printf("Hello git02");
         System.out.println("Hello git03");
         System.out.println("dev->Hello");
+        System.out.println("dev");
     }
 }
