@@ -8,6 +8,6 @@ public class test01 {
         System.out.println("master->Hello");
         System.out.println("dev->Hello");
         System.out.println("dev");
-        System.out.println("master");
+        System.out.println("C1");
     }
 }
